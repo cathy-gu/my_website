@@ -1,11 +1,5 @@
 # my_website
 
-*italics*
+*by cathy-gu*
 
-**bold**
-
-Hello world, how are you this beautiful morning?
-
-hey another line here
-
-line 11
+**Hello, welcome to my website :))**
