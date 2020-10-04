@@ -93,7 +93,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Biography"
-      subtitle = "Cathy, a girl with passion towards work and life"
+      subtitle = "Cathy, a girl with passion towards work and life :)"
       image = "http://p7.itc.cn/images03/20200514/406447bc154e4882811285fdbd77d084.jpeg"
       url = "blogs/Biography"
 
