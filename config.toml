@@ -92,40 +92,40 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
-      url = "blogs/aliquam"
+      title = "Biography"
+      subtitle = "Cathy, a girl with passion towards work and life"
+      image = "http://p7.itc.cn/images03/20200514/406447bc154e4882811285fdbd77d084.jpeg"
+      url = "blogs/Biography"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Project 1"
+      subtitle = "..."
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "blogs/Project 1"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
+      title = "Project 2"
+      subtitle = "..."
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/Project 2"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      title = "Project 3"
+      subtitle = "..."
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/Project 3"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Project 4"
+      subtitle = "..."
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/Project 4"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
+      title = "Project 5"
       subtitle = "Feugiat Amet Tempus"
       image = "pic06.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/Project 5"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -138,12 +138,8 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "More about me"
+    subtitle = """If you want to know more about me..."""
     buttonText = "Get Started"
     url = "blogs"
 
@@ -172,17 +168,17 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "ygu.mfa2021@london.edu"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "(044) 755-***-6146"
 
     [[params.contact.address]]
     title = "Address"
     street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    city = "London, ST ***"
+    country = "United Kingdom"
 
   # Footer section
   [params.footer]
@@ -197,12 +193,12 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com"
+      url= "https://www.facebook.com/yuanmeng.gu"
       label = "Facebook"
 
     [[params.footer.social]]
       icon = "fa-instagram"
-      url= "https://www.instagram.com"
+      url= "https://www.instagram.com/cathy.gu929/"
       label = "Instagram"
     
     [[params.footer.social]]
